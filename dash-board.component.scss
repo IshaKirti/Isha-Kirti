@@ -4,7 +4,7 @@
     font-size:12px;
     font-weight: bold;
 }
-.AddEmployeeTitleContainer{
+.AddPersonTitleContainer{
     display:flex;
 
 }
@@ -12,7 +12,7 @@
     flex:1;
     padding:10px;
 }
-.addemployeeBtnContainer{
+.addpersonBtnContainer{
     flex:1;
     background:#ffff;
     border-top-right-radius: 10px;
@@ -24,7 +24,7 @@
     padding:20px;
     background:#f6f6ff;
 }
-.addNewEmpBtn{
+.addNePersonBtn{
     width:70px;
     height:30px;
     text-align:center;
@@ -36,7 +36,7 @@
     cursor:pointer;
     margin-bottom: 20px;
 }
-.addEmployeeTitleContainer{
+.addPersonTitleContainer{
     background:white;
     padding:20px 20px 0px 20px;
     font-size:20px;
@@ -45,7 +45,7 @@
     border-top-left-radius:10px;
     border-bottom-left-radius:10px;
 }
-.editEmployeeTitleContainer{
+.editPersonTitleContainer{
     background:#f6f6ff;
     padding:20px 20px 0px 20px;
     font-size:22px;
